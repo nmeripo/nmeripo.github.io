@@ -1,6 +1,6 @@
 var i = 1;
 var j= -1;
-var list = ['Graduate Computer Engineering Student'];
+var list = ['Deep Learning Student Researcher at Luminosity Lab'];
 var a=list[0];
 var len = list.length;
 var num = 0;
