@@ -1,6 +1,6 @@
 var i = 1;
 var j= -1;
-var list = ['Deep Learning Student Researcher at Luminosity Lab'];
+var list = ['Machine Learning Researcher at Abridge AI'];
 var a=list[0];
 var len = list.length;
 var num = 0;
